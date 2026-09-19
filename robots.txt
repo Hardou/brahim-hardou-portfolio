@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brahim.blankdigi.com/sitemap.xml
